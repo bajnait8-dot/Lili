@@ -1,6 +1,3 @@
-package answer
+Szeretet Boldogság ès igaz szerelem 
 
-type Database struct {
-	Database string
-}
 
