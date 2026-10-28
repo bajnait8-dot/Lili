@@ -1,5 +1,1 @@
-package answer
-
-type Frame struct {
-	Frame string
-}
+Status:Eredeti emberek akiket én mint Admin hozhatok be rendszerembe
